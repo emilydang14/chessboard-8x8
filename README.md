@@ -11,7 +11,7 @@ Chessboard 8x8 is a small pratice exercise was made to learn and understand the 
 
 The color of each small squares will be changed when clicked. 
 
-![Game Board](https://github.com/emilydang14/chessboard-8x8/blob/master/demo.gif | width=100)
+![Game Board](https://github.com/emilydang14/chessboard-8x8/blob/master/demo.gif){:height="50%" width="50%"}
 
 ### How to start the application on your computer:
 
